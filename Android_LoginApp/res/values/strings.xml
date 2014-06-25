@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Login Test</string>
+
+    <string name="username_hint">Enter username</string>
+
+    <string name="password_hint">Enter password</string>
+
+    <string name="login_btn_text">Login</string>
+
+    <string name="welcome_string">Heya! Welcome.</string>
+
+</resources>

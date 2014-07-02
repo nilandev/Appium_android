@@ -1,4 +1,4 @@
-package com.imano.test;
+package com.imano;
 
 import android.app.Activity;
 import android.content.Intent;

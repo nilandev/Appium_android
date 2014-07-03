@@ -1,4 +1,4 @@
-package com.imano;
+package com.imano.tests;
 
 import android.test.ActivityInstrumentationTestCase2;
 

@@ -1,4 +1,4 @@
-package com.imano;
+package com.imano.tests;
 
 import junit.framework.Assert;
 import android.test.AndroidTestCase;

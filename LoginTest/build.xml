@@ -38,9 +38,6 @@
     </condition>
     
     
-    <path id="external.classpath">
-        <pathelement location="${lib.dir}/android-junit-report-1.5.8.jar" />
-    </path>
     
     
 

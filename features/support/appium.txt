@@ -1,0 +1,9 @@
+[caps]
+platformName = "Android"
+appActivity = "com.imano.LoginActivity"
+appPackage = "com.imano"
+deviceName = "emulator-5554"
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
